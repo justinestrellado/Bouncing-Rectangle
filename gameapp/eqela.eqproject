@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gameApp
+#
+
+projectname: gameApp
+vendorid: com.justinestrellado.example
+mainmodule: com.justinestrellado.example.gameapp
